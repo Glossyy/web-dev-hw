@@ -1,0 +1,11 @@
+How is the web different than the internet?
+  The internet is a large structure of networks, connecting computers from around the globe so that any computers that are connected to the internet may talk to each other.
+  The web is a way to access things over the internet using HTTP as the protocol to transmit data. 
+Briefly describe how the internet works. ("Magic.")
+  The end user types a URL into the address bar, browser sends request to the ISP, ISP sends request to a database to find the website location and then onto the host server, host server sends packets of the requested data back to ISP who sends them to the end user's computer to be viewed.
+What is a directory, and what is its relationship to files?
+  They refer to the same concept but it is preferable to use directory when talking about file systems.
+Why is using a VCS beneficial?
+  Because it allows you to see all versions of the commit and go back to a previous version if needed.
+State at least one thing you found interesting this topic, or that you didn't know before.
+  I always find it interesting how many emoji's are used on twitter and I find it very interesting that tumblr still has that many posts with the recent NSFW changes to it.
